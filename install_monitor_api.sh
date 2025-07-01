@@ -2,7 +2,7 @@
 
 # ==== CONFIGURATION ====
 APP_DIR="/opt/hexonode-monitor"
-REPO_URL="https://github.com/akaboydeve/hexonode-monitor.git"
+REPO_URL="https://github.com/akaboydeve/vps_control.git"
 SERVICE_NAME="hexonode-api"
 PORT=1234
 
