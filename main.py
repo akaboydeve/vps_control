@@ -11,7 +11,7 @@ app = FastAPI()
 origins = [
     "https://vps-control-web.vercel.app",
     "https://vps-control-web.hexonode.com",
-    ""http://localhost:3000"",
+    "http://localhost:3000",
 ]
 
 app.add_middleware(
